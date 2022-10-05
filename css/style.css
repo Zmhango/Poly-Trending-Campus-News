@@ -1766,11 +1766,11 @@ p.sed {
     font-size: 1.4em;
   }
   .banner {
-    background: url(../images/bnr.jpg) no-repeat -313px 0px;
+    background: url(../images/M1.jpg) no-repeat -313px 0px;
     background-size: cover;
   }
   .banner2 {
-    background: url(../images/bnr.jpg) no-repeat 0px 0px;
+    background: url(../images/M1.jpg) no-repeat 0px 0px;
     background-size: cover;
   }
 }
