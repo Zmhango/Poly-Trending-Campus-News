@@ -2037,11 +2037,11 @@ p.sed {
   .banner {
     min-height: 319px;
     padding-bottom: 1em;
-    background: url(../images/bnr.jpg) no-repeat -227px 0px;
+    background: url(../images/M1.jpg) no-repeat -227px 0px;
     background-size: cover;
   }
   .banner2 {
-    background: url(../images/bnr.jpg) no-repeat 0px 0px;
+    background: url(../images/M1.jpg) no-repeat 0px 0px;
     background-size: cover;
     min-height: 142px;
   }
